@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.vscode/
+.DS_Store
+backend/test_download.py
+backend/downloaded_document.pdf
+backend/reset_passwords.py
